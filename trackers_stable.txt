@@ -48,5 +48,5 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker.nekomi.cn:443/announce
 udp://tracker.qu.ax:6969/announce
 http://bvarf.tracker.sh:2086/announce
-https://pybittrack.retiolus.net:443/announce
 http://tracker.ipv6tracker.ru:80/announce
+https://pybittrack.retiolus.net:443/announce
